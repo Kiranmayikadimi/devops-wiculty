@@ -12,7 +12,7 @@
 
 # How to check if prometheus is installed?
 
-* ps aux | grep promotheus
+* ps aux | grep prometheus
 
   - check if you are able to see the running process for prometheus
 
